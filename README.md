@@ -1,3 +1,7 @@
+# NLVR.ipynb
+
+Experiments working on the problem posed by Alane Suhr, Mike Lewis, James Yeh, and Yoav Artzi of Cornell's Language in Context group (with all files besides NLVR.ipynb forked from below):
+
 # The Cornell Natural Language Visual Reasoning (NLVR) Corpus v1.0
 Website: http://lic.nlp.cornell.edu/nlvr/
 
